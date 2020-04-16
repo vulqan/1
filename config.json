@@ -1,0 +1,14 @@
+{
+  "token": "x",
+  "group_name": "@HypePointEU",
+  "app": {
+    "consumer": {
+      "key": "x",
+      "secret": "x"
+    },
+    "access": {
+      "token": "x",
+      "secret": "x"
+    }
+  }
+}
